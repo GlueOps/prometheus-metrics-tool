@@ -1,4 +1,4 @@
-Here are main commands.
+Main commands.
 1. Take a snapshot: python3 prom_snapshot.py snapshot .
 2. List all snapshots: python3 prom_snapshot.py list .
 3. Compare two snapshots: python3 prom_snapshot.py compare *snapshot path* *snapshot path* . 
