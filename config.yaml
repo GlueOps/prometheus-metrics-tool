@@ -1,0 +1,5 @@
+# Prometheus Metrics Snapshot Tool Configuration
+
+prometheus_namespace: glueops-core-kube-prometheus-stack
+prometheus_service: kps-prometheus
+prometheus_port: 9090
